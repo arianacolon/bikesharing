@@ -1,6 +1,8 @@
 # Bikesharing with Tableau
 ## Overview
 ### Purpose
+
+Citybike Tableau Link - https://public.tableau.com/app/profile/ariana.colon/viz/Module14_16689092833250/CitibikeChallenge 
 ## Results
 ### Checkout Times for Users
 ![image](https://user-images.githubusercontent.com/107401667/202878121-64d95170-ed5d-4694-9a9d-fc3d64576f98.png)
